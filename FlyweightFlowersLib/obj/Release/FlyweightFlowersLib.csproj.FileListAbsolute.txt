@@ -1,0 +1,6 @@
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab7_FlyweightPattern_Flowers\FlyweightFlowersLib\bin\Release\FlyweightFlowersLib.dll
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab7_FlyweightPattern_Flowers\FlyweightFlowersLib\bin\Release\FlyweightFlowersLib.pdb
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab7_FlyweightPattern_Flowers\FlyweightFlowersLib\obj\Release\FlyweightFlowersLib.csproj.AssemblyReference.cache
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab7_FlyweightPattern_Flowers\FlyweightFlowersLib\obj\Release\FlyweightFlowersLib.csproj.CoreCompileInputs.cache
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab7_FlyweightPattern_Flowers\FlyweightFlowersLib\obj\Release\FlyweightFlowersLib.dll
+D:\My Files\Колледж\4 Курс\Конструювання програмного забезпечення\Lab7_FlyweightPattern_Flowers\FlyweightFlowersLib\obj\Release\FlyweightFlowersLib.pdb
